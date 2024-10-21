@@ -9,7 +9,8 @@ This is simple api-test-automation project created to test Airalo Partner API an
 - Results will be available in terminal after the build is finished
   
 # Folder Structure
-![Screenshot 2024-10-21 120802](https://github.com/user-attachments/assets/79c7bcf7-9f96-4dcd-aac6-447c635c1251)
+![Screenshot 2024-10-21 125536](https://github.com/user-attachments/assets/66119470-d478-4fd0-b122-22246d47b6cc)
+
 
 StatusCode.java --> file to store status codes and messages
 FileReader.py --> file in the utilities directory. This file is to read the test data json files
@@ -27,3 +28,5 @@ Note : The mentioned endpoint in the requirement document seems wrong (It points
 1. Submit Order
 2. Get Order List
 3. Get eSIMs List
+![Screenshot 2024-10-21 125724](https://github.com/user-attachments/assets/6935b039-7235-4509-8fc1-e7e4564daf91)
+

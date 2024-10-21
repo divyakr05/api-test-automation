@@ -12,11 +12,11 @@ This is simple api-test-automation project created to test Airalo Partner API an
 ![Screenshot 2024-10-21 125536](https://github.com/user-attachments/assets/66119470-d478-4fd0-b122-22246d47b6cc)
 
 
-StatusCode.java --> file to store status codes and messages
-FileReader.py --> file in the utilities directory. This file is to read the test data json files
-ordersTestData.json --> file contains the payload for post operation
-eSIMs_test.java --> file contains the tests for eSIMs API Endpoints
-orders_test.java --> file contains the tests for orders API Endpoints
+- StatusCode.java --> file to store status codes and messages
+- FileReader.java --> file in the utilities directory. This file is to read the test data json files
+- ordersTestData.json --> file contains the payload for post operation
+- eSIMs_test.java --> file contains the tests for eSIMs API Endpoints
+- orders_test.java --> file contains the tests for orders API Endpoints
 
 # Approach to implement the testcase:
 - Created two packages (for eSIMs and orders) and each package contains a java class with different tests for corresponding API Endpoints
